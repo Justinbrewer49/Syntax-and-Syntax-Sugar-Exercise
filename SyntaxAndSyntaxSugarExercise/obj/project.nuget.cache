@@ -1,8 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "HriTEmMKPPs=",
+  "dgSpecHash": "tkSRxEcDpeY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Harpe\\Desktop\\NET9\\Syntax-and-Syntax-Sugar-Exercise\\SyntaxAndSyntaxSugarExercise\\SyntaxAndSyntaxSugarExercise.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\justi\\repos\\Syntax-and-Syntax-Sugar-Exercise\\SyntaxAndSyntaxSugarExercise\\SyntaxAndSyntaxSugarExercise.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\justi\\.nuget\\packages\\azure.core\\1.45.0\\azure.core.1.45.0.nupkg.sha512",
+    "C:\\Users\\justi\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
+    "C:\\Users\\justi\\.nuget\\packages\\system.clientmodel\\1.2.1\\system.clientmodel.1.2.1.nupkg.sha512",
+    "C:\\Users\\justi\\.nuget\\packages\\system.memory.data\\6.0.0\\system.memory.data.6.0.0.nupkg.sha512",
+    "C:\\Users\\justi\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\justi\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
+    "C:\\Users\\justi\\.nuget\\packages\\system.text.json\\6.0.10\\system.text.json.6.0.10.nupkg.sha512",
+    "C:\\Users\\justi\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
   "logs": []
 }
